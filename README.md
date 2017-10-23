@@ -8,7 +8,7 @@ Saves Chegg textbook solutions as numbered jpgs in a directory called "Solutions
 1. Open Chegg in a browser.
 2. Open the textbook solutions you wish to save.
 3. Run CheggSolutionSaver.
-4. Select the Chegg Window within 8 seconds.
+4. Select the Chegg Window within 8 seconds, with cursor on the "next" arrow.
 5. Allow CheggSolutionSaver to run.
 
 javac CheggSaver.java  
